@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+### Skills
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,git,github,apple,docker,bun,pnpm,figma,express,ts,nodejs,nextjs,nestjs,react,angular,tauri,tailwind,apollo,supabase,mongodb,prisma)](https://skillicons.dev)
 <!--
 **miriankakhidze/miriankakhidze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
